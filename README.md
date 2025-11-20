@@ -5,4 +5,4 @@
 * 작성 언어:
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=SASS&logoColor=white"/>
 * 상세 페이지 확인
-    * <a href="https://hiro961227.github.io/gda_clone/" target="_blank">사이트 확인</a>
+    * <a href="https://ke127ui.github.io/gda_clone/" target="_blank">사이트 확인</a>
